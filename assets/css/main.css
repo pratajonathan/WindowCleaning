@@ -2152,6 +2152,10 @@ input, select, textarea {
 	color: rgb(0, 25, 95);
 	font: bold;
 }
+#mainLogo{
+	width: 100%;
+	
+}
 
 /* Footer */
 
