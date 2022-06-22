@@ -2143,6 +2143,7 @@ input, select, textarea {
 	height:50px;
 	border-radius: 15px;
 	background-color:rgba(6, 50, 109, 0.25);
+	margin: 10px;
 
 
 	}
